@@ -1,0 +1,9 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /
+  tomcat:
+        uri-encoding: UTF-8
+logging.level.root: debug
+local:
+  ip: 192.168.5.76   #本机地址
