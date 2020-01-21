@@ -14,7 +14,7 @@ public class JekinApplication {
     }
     @RequestMapping("/index")
     public String test() {
-        return "success11";
+        return "success113344";
     }
 
 }
